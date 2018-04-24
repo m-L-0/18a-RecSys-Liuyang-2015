@@ -2,7 +2,7 @@
 
 ### 180329 Update:
 
-#### User_CF : WIP
+#### User_CF : Done.
 
 #### Item_CF : WIP
 
